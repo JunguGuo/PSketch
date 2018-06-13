@@ -1,0 +1,1804 @@
+{
+   "university":[
+      {
+         "rank":1,
+         "name":"Royal College of Art",
+         "country":"United Kingdom",
+         "location":{
+            "lat":51.5011441,
+            "lng":-0.1792847
+         }
+      },
+      {
+         "rank":2,
+         "name":"Parsons School of Design at The New School",
+         "country":"United States",
+         "location":{
+            "lat":40.7353003,
+            "lng":-73.99459259999999
+         }
+      },
+      {
+         "rank":3,
+         "name":"Rhode Island School of Design (RISD)",
+         "country":"United States",
+         "location":{
+            "lat":41.826111,
+            "lng":-71.40749199999999
+         }
+      },
+      {
+         "rank":4,
+         "name":"Massachusetts Institute of Technology (MIT) ",
+         "country":"United States",
+         "location":{
+            "lat":42.360091,
+            "lng":-71.09416
+         }
+      },
+      {
+         "rank":5,
+         "name":"Politecnico di Milano",
+         "country":"Italy",
+         "location":{
+            "lat":45.4781071,
+            "lng":9.2272764
+         }
+      },
+      {
+         "rank":6,
+         "name":"University of the Arts London",
+         "country":"United Kingdom",
+         "location":{
+            "lat":39.945974,
+            "lng":-75.165566
+         }
+      },
+      {
+         "rank":7,
+         "name":"Pratt Institute",
+         "country":"United States",
+         "location":{
+            "lat":40.6912807,
+            "lng":-73.962537
+         }
+      },
+      {
+         "rank":8,
+         "name":"School of the Art Institute of Chicago (SAIC)",
+         "country":"United States",
+         "location":{
+            "lat":41.8802861,
+            "lng":-87.6249193
+         }
+      },
+      {
+         "rank":9,
+         "name":"Aalto University",
+         "country":"Finland",
+         "location":{
+            "lat":60.1866693,
+            "lng":24.827682
+         }
+      },
+      {
+         "rank":10,
+         "name":"Stanford University",
+         "country":"United States",
+         "location":{
+            "lat":37.4274745,
+            "lng":-122.169719
+         }
+      },
+      {
+         "rank":11,
+         "name":"RMIT University",
+         "country":"Australia",
+         "location":{
+            "lat":-37.8076142,
+            "lng":144.963751
+         }
+      },
+      {
+         "rank":12,
+         "name":"Goldsmiths, University of London",
+         "country":"United Kingdom",
+         "location":{
+            "lat":51.47427099999999,
+            "lng":-0.035408
+         }
+      },
+      {
+         "rank":13,
+         "name":"Carnegie Mellon University",
+         "country":"United States",
+         "location":{
+            "lat":40.4428081,
+            "lng":-79.94301279999999
+         }
+      },
+      {
+         "rank":14,
+         "name":"Art Center College of Design",
+         "country":"United States",
+         "location":{
+            "lat":34.1688713,
+            "lng":-118.1851569
+         }
+      },
+      {
+         "rank":15,
+         "name":"California Institute of the Arts",
+         "country":"United States",
+         "location":{
+            "lat":34.3930631,
+            "lng":-118.5668378
+         }
+      },
+      {
+         "rank":16,
+         "name":"The Glasgow School of Art",
+         "country":"United Kingdom",
+         "location":{
+            "lat":55.866147,
+            "lng":-4.2636933
+         }
+      },
+      {
+         "rank":17,
+         "name":"School of Visual Arts (SVA)",
+         "country":"United States",
+         "location":{
+            "lat":40.738754,
+            "lng":-73.982227
+         }
+      },
+      {
+         "rank":18,
+         "name":"Tongji University",
+         "country":"China",
+         "location":{
+            "lat":31.273419,
+            "lng":121.387232
+         }
+      },
+      {
+         "rank":18,
+         "name":"Universidad de Buenos Aires (UBA)",
+         "country":"Argentina",
+         "location":{
+            "lat":-34.5936291,
+            "lng":-58.48368209999999
+         }
+      },
+      {
+         "rank":20,
+         "name":"University of California, Los Angeles (UCLA)",
+         "country":"United States",
+         "location":{
+            "lat":34.068921,
+            "lng":-118.4451811
+         }
+      },
+      {
+         "rank":21,
+         "name":"California College of the Arts",
+         "country":"United States",
+         "location":{
+            "lat":37.8362513,
+            "lng":-122.2503541
+         }
+      },
+      {
+         "rank":22,
+         "name":"Universidad Nacional Autónoma de México  (UNAM)",
+         "country":"Mexico",
+         "location":{
+            "lat":19.5260796,
+            "lng":-99.18923
+         }
+      },
+      {
+         "rank":23,
+         "name":"Tsinghua University",
+         "country":"China",
+         "location":{
+            "lat":39.9996674,
+            "lng":116.3264439
+         }
+      },
+      {
+         "rank":24,
+         "name":"Design Academy Eindhoven",
+         "country":"Netherlands",
+         "location":{
+            "lat":51.43976439999999,
+            "lng":5.47492
+         }
+      },
+      {
+         "rank":24,
+         "name":"The Hong Kong Polytechnic University",
+         "country":"Hong Kong",
+         "location":{
+            "lat":22.3028474,
+            "lng":114.1784191
+         }
+      },
+      {
+         "rank":26,
+         "name":"Universidad de Palermo (UP)",
+         "country":"Argentina",
+         "location":{
+            "lat":-34.5973351,
+            "lng":-58.415925
+         }
+      },
+      {
+         "rank":27,
+         "name":"The Royal Danish Academy of Fine Arts (KADK)",
+         "country":"Denmark",
+         "location":{
+            "lat":55.680234,
+            "lng":12.5870231
+         }
+      },
+      {
+         "rank":28,
+         "name":"University of Technology Sydney",
+         "country":"Australia",
+         "location":{
+            "lat":-33.8832376,
+            "lng":151.2004942
+         }
+      },
+      {
+         "rank":29,
+         "name":"Yale University",
+         "country":"United States",
+         "location":{
+            "lat":41.3163244,
+            "lng":-72.92234309999999
+         }
+      },
+      {
+         "rank":30,
+         "name":"Columbia University",
+         "country":"United States",
+         "location":{
+            "lat":40.8075355,
+            "lng":-73.9625727
+         }
+      },
+      {
+         "rank":31,
+         "name":"The University of New South Wales (UNSW Sydney)",
+         "country":"Australia",
+         "location":{
+            "lat":-33.917347,
+            "lng":151.2312675
+         }
+      },
+      {
+         "rank":31,
+         "name":"Universidade de São Paulo",
+         "country":"Brazil",
+         "location":{
+            "lat":-23.549848,
+            "lng":-46.6368084
+         }
+      },
+      {
+         "rank":33,
+         "name":"New York University (NYU)",
+         "country":"United States",
+         "location":{
+            "lat":40.72951339999999,
+            "lng":-73.9964609
+         }
+      },
+      {
+         "rank":34,
+         "name":"Loughborough University",
+         "country":"United Kingdom",
+         "location":{
+            "lat":52.769227,
+            "lng":-1.224632
+         }
+      },
+      {
+         "rank":35,
+         "name":"Pontificia Universidad Católica de Chile (UC)",
+         "country":"Chile",
+         "location":{
+            "lat":-33.4411279,
+            "lng":-70.6407933
+         }
+      },
+      {
+         "rank":36,
+         "name":"Savannah College of Art and Design",
+         "country":"United States",
+         "location":{
+            "lat":32.0729232,
+            "lng":-81.0940516
+         }
+      },
+      {
+         "rank":36,
+         "name":"University of Oxford",
+         "country":"United Kingdom",
+         "location":{
+            "lat":51.7548164,
+            "lng":-1.2543668
+         }
+      },
+      {
+         "rank":38,
+         "name":"The University of Melbourne",
+         "country":"Australia",
+         "location":{
+            "lat":-37.7963689,
+            "lng":144.9611738
+         }
+      },
+      {
+         "rank":39,
+         "name":"National University of Singapore (NUS)",
+         "country":"Singapore",
+         "location":{
+            "lat":1.2966426,
+            "lng":103.7763939
+         }
+      },
+      {
+         "rank":40,
+         "name":"Nanyang Technological University, Singapore (NTU)",
+         "country":"Singapore",
+         "location":{
+            "lat":1.3483099,
+            "lng":103.6831347
+         }
+      },
+      {
+         "rank":40,
+         "name":"Seoul National University",
+         "country":"South Korea",
+         "location":{
+            "lat":37.459882,
+            "lng":126.9519053
+         }
+      },
+      {
+         "rank":40,
+         "name":"Swinburne University of Technology",
+         "country":"Australia",
+         "location":{
+            "lat":-37.8221504,
+            "lng":145.0389546
+         }
+      },
+      {
+         "rank":43,
+         "name":"Queensland University of Technology (QUT)",
+         "country":"Australia",
+         "location":{
+            "lat":-27.477357,
+            "lng":153.028415
+         }
+      },
+      {
+         "rank":43,
+         "name":"University of Brighton",
+         "country":"United Kingdom",
+         "location":{
+            "lat":50.8420449,
+            "lng":-0.1198916
+         }
+      },
+      {
+         "rank":45,
+         "name":"Instituto Tecnológico y de Estudios Superiores de Monterrey",
+         "country":"Mexico",
+         "location":{
+            "lat":25.6515649,
+            "lng":-100.28954
+         }
+      },
+      {
+         "rank":46,
+         "name":"Cornell University",
+         "country":"United States",
+         "location":{
+            "lat":42.4534492,
+            "lng":-76.4735027
+         }
+      },
+      {
+         "rank":47,
+         "name":"Peking University",
+         "country":"China",
+         "location":{
+            "lat":39.986913,
+            "lng":116.3058739
+         }
+      },
+      {
+         "rank":48,
+         "name":"National Cheng Kung University (NCKU)",
+         "country":"Taiwan",
+         "location":{
+            "lat":22.9988083,
+            "lng":120.217172
+         }
+      },
+      {
+         "rank":49,
+         "name":"École Nationale Supérieure de Création Industrielle, ENSCI Les Ateliers",
+         "country":"France",
+         "location":{
+            "lat":48.8584136,
+            "lng":2.3692752
+         }
+      },
+      {
+         "rank":49,
+         "name":"The University of Sydney",
+         "country":"Australia",
+         "location":{
+            "lat":-33.888584,
+            "lng":151.1873473
+         }
+      },
+      {
+         "rank":51,
+         "name":"The Australian National University",
+         "country":"Australia",
+         "location":{
+            "lat":-35.2776999,
+            "lng":149.118527
+         }
+      },
+      {
+         "rank":51,
+         "name":"Bandung Institute of Technology (ITB)",
+         "country":"Indonesia",
+         "location":{
+            "lat":-6.89148,
+            "lng":107.6106591
+         }
+      },
+      {
+         "rank":51,
+         "name":"Bauhaus-Universität Weimar",
+         "country":"Germany",
+         "location":{
+            "lat":50.9745958,
+            "lng":11.3290373
+         }
+      },
+      {
+         "rank":51,
+         "name":"China Central Academy of Fine Arts",
+         "country":"China",
+         "location":{
+            "lat":39.9848183,
+            "lng":116.4631811
+         }
+      },
+      {
+         "rank":51,
+         "name":"Concordia University",
+         "country":"Canada",
+         "location":{
+            "lat":45.4972657,
+            "lng":-73.5790227
+         }
+      },
+      {
+         "rank":51,
+         "name":"Cranbrook Academy of Art",
+         "country":"United States",
+         "location":{
+            "lat":42.5687647,
+            "lng":-83.2517981
+         }
+      },
+      {
+         "rank":51,
+         "name":"Edinburgh College of Art (ECA)",
+         "country":"United Kingdom",
+         "location":{
+            "lat":55.945884,
+            "lng":-3.199017
+         }
+      },
+      {
+         "rank":51,
+         "name":"Emily Carr University of Art + Design",
+         "country":"Canada",
+         "location":{
+            "lat":49.267579,
+            "lng":-123.0925322
+         }
+      },
+      {
+         "rank":51,
+         "name":"Indian Institute of Technology Bombay (IITB)",
+         "country":"India",
+         "location":{
+            "lat":19.1334302,
+            "lng":72.9132679
+         }
+      },
+      {
+         "rank":51,
+         "name":"Konstfack University College of Arts, Crafts and Design",
+         "country":"Sweden",
+         "location":{
+            "lat":59.2996777,
+            "lng":17.9930306
+         }
+      },
+      {
+         "rank":51,
+         "name":"Lancaster University",
+         "country":"United Kingdom",
+         "location":{
+            "lat":54.0103942,
+            "lng":-2.7877294
+         }
+      },
+      {
+         "rank":51,
+         "name":"Maryland Institute College of Art",
+         "country":"United States",
+         "location":{
+            "lat":39.307555,
+            "lng":-76.62163389999999
+         }
+      },
+      {
+         "rank":51,
+         "name":"Massey University",
+         "country":"New Zealand",
+         "location":{
+            "lat":-36.7323894,
+            "lng":174.7027411
+         }
+      },
+      {
+         "rank":51,
+         "name":"Monash University",
+         "country":"Australia",
+         "location":{
+            "lat":-37.9105238,
+            "lng":145.1362182
+         }
+      },
+      {
+         "rank":51,
+         "name":"National Taiwan University (NTU)",
+         "country":"Taiwan",
+         "location":{
+            "lat":25.0173405,
+            "lng":121.5397518
+         }
+      },
+      {
+         "rank":51,
+         "name":"National Taiwan University of Science and Technology (Taiwan Tech)",
+         "country":"Taiwan",
+         "location":{
+            "lat":25.0136906,
+            "lng":121.5406792
+         }
+      },
+      {
+         "rank":51,
+         "name":"Oslo National Academy of the Arts",
+         "country":"Norway",
+         "location":{
+            "lat":59.9253427,
+            "lng":10.7547566
+         }
+      },
+      {
+         "rank":51,
+         "name":"Universidad Politécnica de Madrid",
+         "country":"Spain",
+         "location":{
+            "lat":40.4486372,
+            "lng":-3.7192798
+         }
+      },
+      {
+         "rank":51,
+         "name":"Pontifícia Universidade Católica do Rio de Janeiro",
+         "country":"Brazil",
+         "location":{
+            "lat":-22.9791074,
+            "lng":-43.23308249999999
+         }
+      },
+      {
+         "rank":51,
+         "name":"Princeton University",
+         "country":"United States",
+         "location":{
+            "lat":40.3439888,
+            "lng":-74.6514481
+         }
+      },
+      {
+         "rank":51,
+         "name":"Ravensbourne",
+         "country":"United Kingdom",
+         "location":{
+            "lat":51.50167279999999,
+            "lng":0.005749600000000001
+         }
+      },
+      {
+         "rank":51,
+         "name":"Royal University College of Fine Arts",
+         "country":"Sweden",
+         "location":{
+            "lat":42.3514781,
+            "lng":-71.1138732
+         }
+      },
+      {
+         "rank":51,
+         "name":"Shanghai Jiao Tong University",
+         "country":"China",
+         "location":{
+            "lat":31.201001,
+            "lng":121.432841
+         }
+      },
+      {
+         "rank":51,
+         "name":"Technische Universität Berlin (TU Berlin)",
+         "country":"Germany",
+         "location":{
+            "lat":52.5125322,
+            "lng":13.3269446
+         }
+      },
+      {
+         "rank":51,
+         "name":"The Chinese University of Hong Kong (CUHK)",
+         "country":"Hong Kong",
+         "location":{
+            "lat":22.4162632,
+            "lng":114.2109318
+         }
+      },
+      {
+         "rank":51,
+         "name":"The University of Auckland",
+         "country":"New Zealand",
+         "location":{
+            "lat":-36.8523378,
+            "lng":174.7691073
+         }
+      },
+      {
+         "rank":51,
+         "name":"UCL (University College London)",
+         "country":"United Kingdom",
+         "location":{
+            "lat":51.52455920000001,
+            "lng":-0.1340401
+         }
+      },
+      {
+         "rank":51,
+         "name":"Umea University",
+         "country":"Sweden",
+         "location":{
+            "lat":63.82054839999999,
+            "lng":20.3036711
+         }
+      },
+      {
+         "rank":51,
+         "name":"Universidad Autónoma Metropolitana (UAM)",
+         "country":"Mexico",
+         "location":{
+            "lat":19.2872702,
+            "lng":-99.1371322
+         }
+      },
+      {
+         "rank":51,
+         "name":"Complutense University of Madrid",
+         "country":"Spain",
+         "location":{
+            "lat":40.4478246,
+            "lng":-3.728587199999999
+         }
+      },
+      {
+         "rank":51,
+         "name":"Universidad de Chile",
+         "country":"Chile",
+         "location":{
+            "lat":-33.4445204,
+            "lng":-70.6509277
+         }
+      },
+      {
+         "rank":51,
+         "name":"Universidad de los Andes",
+         "country":"Colombia",
+         "location":{
+            "lat":4.6014855,
+            "lng":-74.06644570000002
+         }
+      },
+      {
+         "rank":51,
+         "name":"Universidad Iberoamericana IBERO",
+         "country":"Mexico",
+         "location":{
+            "lat":32.5186438,
+            "lng":-117.100958
+         }
+      },
+      {
+         "rank":51,
+         "name":"Universidad Nacional de Colombia",
+         "country":"Colombia",
+         "location":{
+            "lat":4.6381938,
+            "lng":-74.08404639999999
+         }
+      },
+      {
+         "rank":51,
+         "name":"Universidade Estadual de Campinas (Unicamp)",
+         "country":"Brazil",
+         "location":{
+            "lat":-22.8184393,
+            "lng":-47.0647206
+         }
+      },
+      {
+         "rank":51,
+         "name":"Universitat Autònoma de Barcelona",
+         "country":"Spain",
+         "location":{
+            "lat":41.5019255,
+            "lng":2.1048538
+         }
+      },
+      {
+         "rank":51,
+         "name":"Universitat de Barcelona",
+         "country":"Spain",
+         "location":{
+            "lat":41.386608,
+            "lng":2.16402
+         }
+      },
+      {
+         "rank":51,
+         "name":"Universität der Künste Berlin",
+         "country":"Germany",
+         "location":{
+            "lat":52.5087871,
+            "lng":13.328079
+         }
+      },
+      {
+         "rank":51,
+         "name":"Universitat Politècnica de Catalunya",
+         "country":"Spain",
+         "location":{
+            "lat":41.388004,
+            "lng":2.1132804
+         }
+      },
+      {
+         "rank":51,
+         "name":"Universiti Malaya (UM)",
+         "country":"Malaysia",
+         "location":{
+            "lat":3.1201068,
+            "lng":101.6545492
+         }
+      },
+      {
+         "rank":51,
+         "name":"University of Applied Arts Vienna ",
+         "country":"Austria",
+         "location":{
+            "lat":48.208361,
+            "lng":16.3823507
+         }
+      },
+      {
+         "rank":51,
+         "name":"University of British Columbia",
+         "country":"Canada",
+         "location":{
+            "lat":49.26060520000001,
+            "lng":-123.2459938
+         }
+      },
+      {
+         "rank":51,
+         "name":"University of California, San Diego (UCSD)",
+         "country":"United States",
+         "location":{
+            "lat":32.8800604,
+            "lng":-117.2340135
+         }
+      },
+      {
+         "rank":51,
+         "name":"University of Chicago",
+         "country":"United States",
+         "location":{
+            "lat":41.7886079,
+            "lng":-87.5987133
+         }
+      },
+      {
+         "rank":51,
+         "name":"University of Lisbon ",
+         "country":"Portugal",
+         "location":{
+            "lat":38.7526578,
+            "lng":-9.158244999999999
+         }
+      },
+      {
+         "rank":51,
+         "name":"University of South Australia",
+         "country":"Australia",
+         "location":{
+            "lat":-34.9201652,
+            "lng":138.6066669
+         }
+      },
+      {
+         "rank":51,
+         "name":"University of Texas at Austin",
+         "country":"United States",
+         "location":{
+            "lat":30.2849185,
+            "lng":-97.7340567
+         }
+      },
+      {
+         "rank":51,
+         "name":"University of Toronto",
+         "country":"Canada",
+         "location":{
+            "lat":43.6628917,
+            "lng":-79.39565640000001
+         }
+      },
+      {
+         "rank":51,
+         "name":"Utrecht School of the Arts",
+         "country":"Netherlands",
+         "location":{
+            "lat":52.09580709999999,
+            "lng":5.1115789
+         }
+      },
+      {
+         "rank":51,
+         "name":"Zhejiang University",
+         "country":"China",
+         "location":{
+            "lat":30.263944,
+            "lng":120.123279
+         }
+      },
+      {
+         "rank":101,
+         "name":"Aarhus School of Architecture ",
+         "country":"Denmark",
+         "location":{
+            "lat":56.161303,
+            "lng":10.212473
+         }
+      },
+      {
+         "rank":101,
+         "name":"Academy of Fine Arts Vienna",
+         "country":"Austria",
+         "location":{
+            "lat":48.2012533,
+            "lng":16.3651029
+         }
+      },
+      {
+         "rank":101,
+         "name":"Accademia Belle Arti Roma",
+         "country":"Italy",
+         "location":{
+            "lat":41.9076394,
+            "lng":12.4757483
+         }
+      },
+      {
+         "rank":101,
+         "name":"Amsterdam School of the Arts",
+         "country":"Netherlands",
+         "location":{
+            "lat":52.3695664,
+            "lng":4.9021558
+         }
+      },
+      {
+         "rank":101,
+         "name":"Auckland University of Technology (AUT)",
+         "country":"New Zealand",
+         "location":{
+            "lat":-36.8532194,
+            "lng":174.7673188
+         }
+      },
+      {
+         "rank":101,
+         "name":"Case Western Reserve University",
+         "country":"United States",
+         "location":{
+            "lat":41.5043413,
+            "lng":-81.6083838
+         }
+      },
+      {
+         "rank":101,
+         "name":"Hanyang University",
+         "country":"South Korea",
+         "location":{
+            "lat":37.5572321,
+            "lng":127.0453219
+         }
+      },
+      {
+         "rank":101,
+         "name":"Haute Ecole d'art et de design de Genève (HEAD)",
+         "country":"Switzerland",
+         "location":{
+            "lat":46.208967,
+            "lng":6.141165399999999
+         }
+      },
+      {
+         "rank":101,
+         "name":"Hong Kong Baptist University",
+         "country":"Hong Kong",
+         "location":{
+            "lat":22.3380838,
+            "lng":114.1818597
+         }
+      },
+      {
+         "rank":101,
+         "name":"IED Istituto Europeo di Design",
+         "country":"Italy",
+         "location":{
+            "lat":45.4458805,
+            "lng":9.1951948
+         }
+      },
+      {
+         "rank":101,
+         "name":"KU Leuven",
+         "country":"Belgium",
+         "location":{
+            "lat":50.87795449999999,
+            "lng":4.7002953
+         }
+      },
+      {
+         "rank":101,
+         "name":"Kingston University, London",
+         "country":"United Kingdom",
+         "location":{
+            "lat":51.4032431,
+            "lng":-0.3034882
+         }
+      },
+      {
+         "rank":101,
+         "name":"Design School Kolding",
+         "country":"Denmark",
+         "location":{
+            "lat":55.48628309999999,
+            "lng":9.480381399999999
+         }
+      },
+      {
+         "rank":101,
+         "name":"Malmo University",
+         "country":"Sweden",
+         "location":{
+            "lat":55.6087954,
+            "lng":12.9945611
+         }
+      },
+      {
+         "rank":101,
+         "name":"Manchester Metropolitan University",
+         "country":"United Kingdom",
+         "location":{
+            "lat":53.4709747,
+            "lng":-2.2387641
+         }
+      },
+      {
+         "rank":101,
+         "name":"Middlesex University",
+         "country":"United Kingdom",
+         "location":{
+            "lat":51.589755,
+            "lng":-0.228299
+         }
+      },
+      {
+         "rank":101,
+         "name":"National Central University",
+         "country":"Taiwan",
+         "location":{
+            "lat":24.9694808,
+            "lng":121.1925163
+         }
+      },
+      {
+         "rank":101,
+         "name":"National College of Art and Design",
+         "country":"Ireland",
+         "location":{
+            "lat":53.34292,
+            "lng":-6.2786751
+         }
+      },
+      {
+         "rank":101,
+         "name":"Northumbria University at Newcastle",
+         "country":"United Kingdom",
+         "location":{
+            "lat":54.9768729,
+            "lng":-1.6077272
+         }
+      },
+      {
+         "rank":101,
+         "name":"Northwestern University",
+         "country":"United States",
+         "location":{
+            "lat":42.0564594,
+            "lng":-87.67526699999999
+         }
+      },
+      {
+         "rank":101,
+         "name":"The Ohio State University",
+         "country":"United States",
+         "location":{
+            "lat":40.0141905,
+            "lng":-83.03091429999999
+         }
+      },
+      {
+         "rank":101,
+         "name":"Oslo School of Architecture",
+         "country":"Norway",
+         "location":{
+            "lat":59.92435570000001,
+            "lng":10.7511403
+         }
+      },
+      {
+         "rank":101,
+         "name":"Politecnico di Torino",
+         "country":"Italy",
+         "location":{
+            "lat":45.0624921,
+            "lng":7.662203
+         }
+      },
+      {
+         "rank":101,
+         "name":"Pontificia Universidad Católica del Perú",
+         "country":"Peru",
+         "location":{
+            "lat":-12.0690764,
+            "lng":-77.078437
+         }
+      },
+      {
+         "rank":101,
+         "name":"Pontificia Universidad Javeriana",
+         "country":"Colombia",
+         "location":{
+            "lat":4.6284578,
+            "lng":-74.06490769999999
+         }
+      },
+      {
+         "rank":101,
+         "name":"Royal Academy of Art, The Hague (KABK)",
+         "country":"Netherlands",
+         "location":{
+            "lat":52.08164,
+            "lng":4.319411
+         }
+      },
+      {
+         "rank":101,
+         "name":"Sapienza University of Rome",
+         "country":"Italy",
+         "location":{
+            "lat":41.9037626,
+            "lng":12.5144384
+         }
+      },
+      {
+         "rank":101,
+         "name":"Shanghai University",
+         "country":"China",
+         "location":{
+            "lat":31.05723,
+            "lng":121.208437
+         }
+      },
+      {
+         "rank":101,
+         "name":"Sheffield Hallam University",
+         "country":"United Kingdom",
+         "location":{
+            "lat":53.37823909999999,
+            "lng":-1.4658862
+         }
+      },
+      {
+         "rank":101,
+         "name":"Sungkyunkwan University (SKKU)",
+         "country":"South Korea",
+         "location":{
+            "lat":37.588227,
+            "lng":126.993606
+         }
+      },
+      {
+         "rank":101,
+         "name":"The University of Sheffield",
+         "country":"United Kingdom",
+         "location":{
+            "lat":53.3809409,
+            "lng":-1.4879469
+         }
+      },
+      {
+         "rank":101,
+         "name":"University of Navarra",
+         "country":"Spain",
+         "location":{
+            "lat":40.765531,
+            "lng":-73.97930500000001
+         }
+      },
+      {
+         "rank":101,
+         "name":"Universitat Politècnica de València",
+         "country":"Spain",
+         "location":{
+            "lat":39.48105899999999,
+            "lng":-0.3410670000000001
+         }
+      },
+      {
+         "rank":101,
+         "name":"UNESP",
+         "country":"Brazil",
+         "location":{
+            "lat":-22.1297666,
+            "lng":-51.3969599
+         }
+      },
+      {
+         "rank":101,
+         "name":"Universidade Federal do Rio de Janeiro",
+         "country":"Brazil",
+         "location":{
+            "lat":-22.9541412,
+            "lng":-43.1753638
+         }
+      },
+      {
+         "rank":101,
+         "name":"Université Paris 1 Panthéon-Sorbonne ",
+         "country":"France",
+         "location":{
+            "lat":48.8469373,
+            "lng":2.344468
+         }
+      },
+      {
+         "rank":101,
+         "name":"Université Sorbonne Nouvelle Paris 3",
+         "country":"France",
+         "location":{
+            "lat":48.83979619999999,
+            "lng":2.3538807
+         }
+      },
+      {
+         "rank":101,
+         "name":"Universiti Sains Malaysia (USM)",
+         "country":"Malaysia",
+         "location":{
+            "lat":5.3559337,
+            "lng":100.3025177
+         }
+      },
+      {
+         "rank":101,
+         "name":"University for the Creative Arts",
+         "country":"United Kingdom",
+         "location":{
+            "lat":51.2150866,
+            "lng":-0.805373
+         }
+      },
+      {
+         "rank":101,
+         "name":"University of Alberta",
+         "country":"Canada",
+         "location":{
+            "lat":53.5232189,
+            "lng":-113.5263186
+         }
+      },
+      {
+         "rank":101,
+         "name":"University of Cincinnati",
+         "country":"United States",
+         "location":{
+            "lat":39.1329219,
+            "lng":-84.51495039999999
+         }
+      },
+      {
+         "rank":101,
+         "name":"The University of Edinburgh",
+         "country":"United Kingdom",
+         "location":{
+            "lat":55.9445158,
+            "lng":-3.1892413
+         }
+      },
+      {
+         "rank":101,
+         "name":"University of Illinois at Urbana-Champaign",
+         "country":"United States",
+         "location":{
+            "lat":40.1019523,
+            "lng":-88.2271615
+         }
+      },
+      {
+         "rank":101,
+         "name":"University of Illinois, Chicago (UIC)",
+         "country":"United States",
+         "location":{
+            "lat":41.8706448,
+            "lng":-87.65097469999999
+         }
+      },
+      {
+         "rank":101,
+         "name":"University of Leeds",
+         "country":"United Kingdom",
+         "location":{
+            "lat":53.8066815,
+            "lng":-1.5550328
+         }
+      },
+      {
+         "rank":101,
+         "name":"University of Pennsylvania",
+         "country":"United States",
+         "location":{
+            "lat":39.9522188,
+            "lng":-75.1932137
+         }
+      },
+      {
+         "rank":101,
+         "name":"University of Southern California",
+         "country":"United States",
+         "location":{
+            "lat":34.0223519,
+            "lng":-118.285117
+         }
+      },
+      {
+         "rank":101,
+         "name":"University of Southern Denmark",
+         "country":"Denmark",
+         "location":{
+            "lat":55.3706746,
+            "lng":10.4280673
+         }
+      },
+      {
+         "rank":101,
+         "name":"University of Westminster",
+         "country":"United Kingdom",
+         "location":{
+            "lat":39.5603794,
+            "lng":-76.9898813
+         }
+      },
+      {
+         "rank":101,
+         "name":"Virginia Commonwealth University",
+         "country":"United States",
+         "location":{
+            "lat":37.5488396,
+            "lng":-77.4527272
+         }
+      },
+      {
+         "rank":151,
+         "name":"Aalborg University",
+         "country":"Denmark",
+         "location":{
+            "lat":57.0145665,
+            "lng":9.9818527
+         }
+      },
+      {
+         "rank":151,
+         "name":"Academy of Arts, Architecture and Design Prague",
+         "country":"Czech Republic",
+         "location":{
+            "lat":50.088682,
+            "lng":14.414923
+         }
+      },
+      {
+         "rank":151,
+         "name":"Arizona State University",
+         "country":"United States",
+         "location":{
+            "lat":33.4242399,
+            "lng":-111.9280527
+         }
+      },
+      {
+         "rank":151,
+         "name":"Beijing Normal University ",
+         "country":"China",
+         "location":{
+            "lat":39.9619537,
+            "lng":116.3662615
+         }
+      },
+      {
+         "rank":151,
+         "name":"Boston University",
+         "country":"United States",
+         "location":{
+            "lat":42.3504997,
+            "lng":-71.1053991
+         }
+      },
+      {
+         "rank":151,
+         "name":"Brown University",
+         "country":"United States",
+         "location":{
+            "lat":41.8267718,
+            "lng":-71.4025482
+         }
+      },
+      {
+         "rank":151,
+         "name":"Brunel University London",
+         "country":"United Kingdom",
+         "location":{
+            "lat":51.53315809999999,
+            "lng":-0.4692108
+         }
+      },
+      {
+         "rank":151,
+         "name":"Coventry University",
+         "country":"United Kingdom",
+         "location":{
+            "lat":52.4071747,
+            "lng":-1.5037461
+         }
+      },
+      {
+         "rank":151,
+         "name":"Curtin University",
+         "country":"Australia",
+         "location":{
+            "lat":-32.0061951,
+            "lng":115.8944182
+         }
+      },
+      {
+         "rank":151,
+         "name":"École Nationale Supérieure des Beaux-Arts, Paris",
+         "country":"France",
+         "location":{
+            "lat":48.8568556,
+            "lng":2.333782
+         }
+      },
+      {
+         "rank":151,
+         "name":"Ewha Womans University",
+         "country":"South Korea",
+         "location":{
+            "lat":37.5618577,
+            "lng":126.9468294
+         }
+      },
+      {
+         "rank":151,
+         "name":"Falmouth College of Arts University College Falmouth",
+         "country":"United Kingdom",
+         "location":{
+            "lat":50.1712678,
+            "lng":-5.1238373
+         }
+      },
+      {
+         "rank":151,
+         "name":"Fudan University",
+         "country":"China",
+         "location":{
+            "lat":31.2974197,
+            "lng":121.5036178
+         }
+      },
+      {
+         "rank":151,
+         "name":"Griffith University",
+         "country":"Australia",
+         "location":{
+            "lat":-27.5550897,
+            "lng":153.0532585
+         }
+      },
+      {
+         "rank":151,
+         "name":"Hongik University ",
+         "country":"South Korea",
+         "location":{
+            "lat":37.5517109,
+            "lng":126.9261157
+         }
+      },
+      {
+         "rank":151,
+         "name":"Indian Institute of Science",
+         "country":"India",
+         "location":{
+            "lat":13.0218597,
+            "lng":77.5671423
+         }
+      },
+      {
+         "rank":151,
+         "name":"Indiana University Bloomington",
+         "country":"United States",
+         "location":{
+            "lat":39.1745704,
+            "lng":-86.5129458
+         }
+      },
+      {
+         "rank":151,
+         "name":"IT University of Copenhagen",
+         "country":"Denmark",
+         "location":{
+            "lat":55.65963499999999,
+            "lng":12.590958
+         }
+      },
+      {
+         "rank":151,
+         "name":"Korea National University of Arts",
+         "country":"South Korea",
+         "location":{
+            "lat":37.60550370000001,
+            "lng":127.0560441
+         }
+      },
+      {
+         "rank":151,
+         "name":"Korea University",
+         "country":"South Korea",
+         "location":{
+            "lat":37.590799,
+            "lng":127.0277773
+         }
+      },
+      {
+         "rank":151,
+         "name":"Kyushu University",
+         "country":"Japan",
+         "location":{
+            "lat":37.3176279,
+            "lng":-121.9484381
+         }
+      },
+      {
+         "rank":151,
+         "name":"Michigan State University",
+         "country":"United States",
+         "location":{
+            "lat":42.701848,
+            "lng":-84.4821719
+         }
+      },
+      {
+         "rank":151,
+         "name":"Musashino University",
+         "country":"Japan",
+         "location":{
+            "lat":35.7178601,
+            "lng":139.5477784
+         }
+      },
+      {
+         "rank":151,
+         "name":"National Taiwan Normal University",
+         "country":"Taiwan",
+         "location":{
+            "lat":25.0260598,
+            "lng":121.5275321
+         }
+      },
+      {
+         "rank":151,
+         "name":"New York State College of Ceramics at Alfred University",
+         "country":"United States",
+         "location":{
+            "lat":42.2564277,
+            "lng":-77.78853269999999
+         }
+      },
+      {
+         "rank":151,
+         "name":"North Carolina State University",
+         "country":"United States",
+         "location":{
+            "lat":35.7846633,
+            "lng":-78.6820946
+         }
+      },
+      {
+         "rank":151,
+         "name":"Nottingham Trent University",
+         "country":"United Kingdom",
+         "location":{
+            "lat":52.9581383,
+            "lng":-1.1542364
+         }
+      },
+      {
+         "rank":151,
+         "name":"OCAD University",
+         "country":"Canada",
+         "location":{
+            "lat":43.6532284,
+            "lng":-79.3914697
+         }
+      },
+      {
+         "rank":151,
+         "name":"Oxford Brookes University",
+         "country":"United Kingdom",
+         "location":{
+            "lat":51.755011,
+            "lng":-1.224225
+         }
+      },
+      {
+         "rank":151,
+         "name":"Pennsylvania State University",
+         "country":"United States",
+         "location":{
+            "lat":40.7982133,
+            "lng":-77.8599084
+         }
+      },
+      {
+         "rank":151,
+         "name":"Ryerson University",
+         "country":"Canada",
+         "location":{
+            "lat":43.6576585,
+            "lng":-79.3788017
+         }
+      },
+      {
+         "rank":151,
+         "name":"The University of Adelaide",
+         "country":"Australia",
+         "location":{
+            "lat":-34.920603,
+            "lng":138.6062277
+         }
+      },
+      {
+         "rank":151,
+         "name":"The University of Queensland",
+         "country":"Australia",
+         "location":{
+            "lat":-27.4954306,
+            "lng":153.0120301
+         }
+      },
+      {
+         "rank":151,
+         "name":"The University of Western Australia",
+         "country":"Australia",
+         "location":{
+            "lat":-31.981179,
+            "lng":115.8199096
+         }
+      },
+      {
+         "rank":151,
+         "name":"Universidad Autónoma de Madrid",
+         "country":"Spain",
+         "location":{
+            "lat":40.5466983,
+            "lng":-3.6943619
+         }
+      },
+      {
+         "rank":151,
+         "name":"Universidad Autónoma del Estado de México (UAEMex)",
+         "country":"Mexico",
+         "location":{
+            "lat":19.2839512,
+            "lng":-99.6780034
+         }
+      },
+      {
+         "rank":151,
+         "name":"Universidad de Monterrey (UDEM)",
+         "country":"Mexico",
+         "location":{
+            "lat":25.662837,
+            "lng":-100.419921
+         }
+      },
+      {
+         "rank":151,
+         "name":"Universidad Nacional de La Plata (UNLP)",
+         "country":"Argentina",
+         "location":{
+            "lat":-34.9128319,
+            "lng":-57.95116290000001
+         }
+      },
+      {
+         "rank":151,
+         "name":"Universitat Pompeu Fabra",
+         "country":"Spain",
+         "location":{
+            "lat":41.3789689,
+            "lng":2.179794100000001
+         }
+      },
+      {
+         "rank":151,
+         "name":"Universität für angewandte Kunst Wien",
+         "country":"Austria",
+         "location":{
+            "lat":48.208361,
+            "lng":16.3823507
+         }
+      },
+      {
+         "rank":151,
+         "name":"University of Arts George Enescu Iasi",
+         "country":"Romania",
+         "location":{
+            "lat":47.1645566,
+            "lng":27.5780124
+         }
+      },
+      {
+         "rank":151,
+         "name":"University of Cape Town",
+         "country":"South Africa",
+         "location":{
+            "lat":-33.957652,
+            "lng":18.4611991
+         }
+      },
+      {
+         "rank":151,
+         "name":"University of Dundee",
+         "country":"United Kingdom",
+         "location":{
+            "lat":56.45824469999999,
+            "lng":-2.9821428
+         }
+      },
+      {
+         "rank":151,
+         "name":"University of Michigan",
+         "country":"United States",
+         "location":{
+            "lat":42.2780436,
+            "lng":-83.7382241
+         }
+      },
+      {
+         "rank":151,
+         "name":"University of Porto",
+         "country":"Portugal",
+         "location":{
+            "lat":41.1465479,
+            "lng":-8.6156998
+         }
+      },
+      {
+         "rank":151,
+         "name":"University of Washington",
+         "country":"United States",
+         "location":{
+            "lat":47.65533509999999,
+            "lng":-122.3035199
+         }
+      },
+      {
+         "rank":151,
+         "name":"University of Wollongong",
+         "country":"Australia",
+         "location":{
+            "lat":-34.4054039,
+            "lng":150.87843
+         }
+      },
+      {
+         "rank":151,
+         "name":"Utrecht University",
+         "country":"Netherlands",
+         "location":{
+            "lat":52.0901527,
+            "lng":5.1226018
+         }
+      },
+      {
+         "rank":151,
+         "name":"Victoria University of Wellington",
+         "country":"New Zealand",
+         "location":{
+            "lat":-41.2904017,
+            "lng":174.7686615
+         }
+      },
+      {
+         "rank":151,
+         "name":"Zurich University of the Arts (ZHdK)",
+         "country":"Switzerland",
+         "location":{
+            "lat":47.3904213,
+            "lng":8.5114996
+         }
+      }
+   ]
+}
